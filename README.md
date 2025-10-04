@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joaquin
 
-I’m a **Computer Science student at Florida International University (Class of 2027)** exploring **cloud engineering, security, and software development**.
+I’m a **Computer Science student at Florida International University (Class of May 2027)** exploring **cloud engineering, security, and software development**.
 
 - 🛡️ Team Lead @ **FIU INIT** – guiding students to engineer an **IAM security misconfiguration dashboard** using **AWS, Python, OPA, Checkov, and Gitleaks**.
   
