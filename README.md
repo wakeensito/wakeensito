@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joaquin (KeenKloud)
+# 👋 Hi, I’m Joaquin
 
 I’m a **Computer Science student at Florida International University (Class of 2027)** exploring **cloud engineering, security, and software development**.
 
