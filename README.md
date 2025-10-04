@@ -8,7 +8,7 @@ I’m a **Computer Science student at Florida International University (Class of
   
 - 💻 Currently learning **Flask, Pandas**, and expanding my knowledge of **DevSecOps & cloud architecture**.
 
-- 📜 **Certifications:** AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner | CompTIA Security+
+- 📜 **Certifications:** AWS Certified Cloud Practitioner | AWS Certified Solutions Architect – Associate | CompTIA Security+
 
 ⚡ **Future goals:** continue building scalable, secure cloud applications, contribute to open source, and land software/security engineering internships.
 
