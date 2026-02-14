@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joaquin (wa-keen)
 
-I’m a **Computer Science student at Florida International University (Class of May 2027)** exploring **cloud engineering, security, and software development**.
+I’m a **IT DevOps student at Florida International University (Class of May 2027)** exploring **cloud engineering, security, and software development**.
 
 - ☁️ AWS Cloud Club Captain @ FIU — building a student community around cloud engineering, DevOps, and hands-on AWS projects.
 
