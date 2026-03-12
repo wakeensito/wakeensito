@@ -2,47 +2,40 @@
 
 I’m a **IT DevOps student at Florida International University (Class of May 2027)** exploring **cloud engineering, security, and software development**.
 
-- ☁️ AWS Cloud Club Captain @ FIU — building a student community around cloud engineering, DevOps, and hands-on AWS projects.
+- ☁️ AWS Cloud Club Captain @ FIU / AWS Student Ambassador — building a student community around cloud engineering, DevOps, and hands-on AWS projects.
 
-- 🛡️ Team Lead @ **FIU INIT** – guiding students to engineer an **IAM security misconfiguration dashboard** using **AWS, Python, OPA, Checkov, and Gitleaks**.
+- 🛡️ Team Lead **INIT Build @ FIU** – guiding students to engineer an **IAM security misconfiguration dashboard** using **AWS, Python, OPA, Checkov, and Gitleaks**.
   
-- 🌐 Creator of [**KeenKloud.net**] – my personal portfolio and home for projects like a **serverless stock market updater** built with AWS Lambda & EventBridge.
-  
-- 💻 Currently learning **Flask, Pandas**, and expanding my knowledge of **DevSecOps & cloud architecture**.
+⚡ **Future goals:** continue building scalable, secure cloud applications, contribute to open source, and land DevOps/Cloud/Security engineering roles.
 
-- 📜 **Certifications:** AWS Certified Cloud Practitioner | AWS Certified Solutions Architect – Associate | CompTIA Security+
-
-⚡ **Future goals:** continue building scalable, secure cloud applications, contribute to open source, and land software/security engineering internships.
-
-📫 Let’s Connect
-https://www.linkedin.com/in/jporter924/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jporter924/)
 
 ## Certifications
 
-<table align="left">
+<table align="left" width="100%">
   <tr>
-    <td align="center" width="160">
-      <a href="https://www.credly.com/badges/b8ae458e-ae89-4aee-baf0-802597f016c6">
-        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS CCP" />
-        <br /><sub><b>Cloud Practitioner</b></sub>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/b8ae458e-ae89-4aee-baf0-802597f016c6" style="text-decoration: none;">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="180" alt="AWS CCP" />
+        <br /><font color="white"><b>Cloud Practitioner</b></font>
       </a>
     </td>
-    <td align="center" width="160">
-      <a href="https://www.credly.com/badges/b2e39a77-ffac-4c7d-948f-8b20d8c8e0da">
-        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS SAA" />
-        <br /><sub><b>Solutions Architect</b></sub>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/b2e39a77-ffac-4c7d-948f-8b20d8c8e0da" style="text-decoration: none;">
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="180" alt="AWS SAA" />
+        <br /><font color="white"><b>Solutions Architect</b></font>
       </a>
     </td>
-    <td align="center" width="160">
-      <a href="https://www.credly.com/badges/6c90fb1a-574c-4c00-bbc4-d5d36de360cf">
-        <img src="https://images.credly.com/images/1337c699-2a9c-4f81-995b-0cf879a81e3a/image.png" width="120" alt="Security+" />
-        <br /><sub><b>Security+</b></sub>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/6c90fb1a-574c-4c00-bbc4-d5d36de360cf" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/wakeensito/KeenKloud/main/assets/img/comp.png" width="180" alt="Security+" />
+        <br /><font color="white"><b>Security+</b></font>
       </a>
     </td>
-    <td align="center" width="160">
-      <a href="https://www.credly.com/badges/5d0f7737-9b1d-4018-a8b1-c7807be3b812">
-        <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" width="120" alt="Cloud Club Captain" />
-        <br /><sub><b>Cloud Club Captain</b></sub>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/5d0f7737-9b1d-4018-a8b1-c7807be3b812" style="text-decoration: none;">
+        <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" width="180" alt="Cloud Club Captain" />
+        <br /><font color="white"><b>Cloud Club Captain</b></font>
       </a>
     </td>
   </tr>
