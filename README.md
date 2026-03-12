@@ -17,31 +17,31 @@ I’m a **IT DevOps student at Florida International University (Class of May 20
 📫 Let’s Connect
 https://www.linkedin.com/in/jporter924/
 
-<h2 align="left">Certifications</h2>
+## Certifications
 
 <table align="left">
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="160">
       <a href="https://www.credly.com/badges/b8ae458e-ae89-4aee-baf0-802597f016c6">
-        <img src="https://images.credly.com/images/00630e6d-0a38-40f5-b362-0539137d4f42/image.png" width="100" alt="CCP" />
+        <img src="https://images.credly.com/images/00630e6d-0a38-40f5-b362-0539137d4f42/image.png" width="120" alt="AWS CCP" />
         <br /><sub><b>Cloud Practitioner</b></sub>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="160">
       <a href="https://www.credly.com/badges/b2e39a77-ffac-4c7d-948f-8b20d8c8e0da">
-        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="SAA" />
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS SAA" />
         <br /><sub><b>Solutions Architect</b></sub>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="160">
       <a href="https://www.credly.com/badges/6c90fb1a-574c-4c00-bbc4-d5d36de360cf">
-        <img src="https://images.credly.com/images/1337c699-2a9c-4f81-995b-0cf879a81e3a/image.png" width="100" alt="Security+" />
+        <img src="https://images.credly.com/images/1337c699-2a9c-4f81-995b-0cf879a81e3a/image.png" width="120" alt="Security+" />
         <br /><sub><b>Security+</b></sub>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="160">
       <a href="https://www.credly.com/badges/5d0f7737-9b1d-4018-a8b1-c7807be3b812">
-        <img src="https://images.credly.com/images/0989f663-7186-42f1-8409-775b1491753c/image.png" width="100" alt="Captain" />
+        <img src="https://images.credly.com/images/0989f663-7186-42f1-8409-775b1491753c/image.png" width="120" alt="Cloud Club Captain" />
         <br /><sub><b>Cloud Club Captain</b></sub>
       </a>
     </td>
