@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joaquin (wa-keen)
+# Hi, I’m Joaquin (wa-keen)
 
 I’m a **IT DevOps student at Florida International University (Class of May 2027)** exploring **cloud engineering, security, and software development**.
 
