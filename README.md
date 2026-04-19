@@ -4,7 +4,7 @@ I’m an **IT DevOps Engineer & Student** at **Florida International University 
 
 * ☁️ AWS Cloud Club Captain @ FIU — Leading a community of student engineers through hands-on cloud labs and DevOps workshops.
 
-* 🛡️ Lead Engineer @ Argus — Managed a cross-functional team of 25 to architect a Blackstone-awarded security dashboard for real-time AWS IAM remediation.
+* 🛡️ Lead Engineer @ Argus — Managed a cross-functional team of 25 to architect a Blackstone-awarded security dashboard for real-time AWS IAM security posture.
 
 
 **Future goals:** Architecting secure, scalable cloud ecosystems and contributing to the evolution of DevSecOps.
