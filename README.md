@@ -1,12 +1,13 @@
-# Hi, I’m Joaquin (wa-keen)
+# Hi, I’m Joaquin (wa-keen) 👋
 
-I’m a **IT DevOps student at Florida International University (Class of May 2027)** exploring **cloud engineering, security, and software development**.
+I’m an **IT DevOps Engineer & Student** at **Florida International University (Class of May 2027)**, specializing in cloud security, automation, and serverless architecture.
 
-- ☁️ AWS Cloud Club Captain @ FIU / AWS Student Builder Campus Leader — building a student community around cloud engineering, DevOps, and hands-on AWS projects.
+* ☁️ AWS Cloud Club Captain @ FIU — Leading a community of student engineers through hands-on cloud labs and DevOps workshops.
 
-- 🛡️ Team Lead **INIT Build @ FIU** – guiding students to engineer an **IAM security misconfiguration dashboard** using **AWS, Python, OPA, Checkov, and Gitleaks**.
-  
-⚡ **Future goals:** continue building scalable, secure cloud applications, contribute to open source, and land DevOps/Cloud/Security engineering roles.
+* 🛡️ Lead Engineer @ Argus — Managed a cross-functional team of 25 to architect a Blackstone-awarded security dashboard for real-time AWS IAM remediation.
+
+
+**Future goals:** Architecting secure, scalable cloud ecosystems and contributing to the evolution of DevSecOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jporter924/)
 
@@ -41,9 +42,28 @@ I’m a **IT DevOps student at Florida International University (Class of May 20
   </tr>
 </table>
 
-<br clear="both" />
+<br clear = "both" />
 
+## 🚀 Featured Projects
 
+### 🛡️ [Argus Security Dashboard](https://github.com/AWS-IAM-Dashboard/IAM-Dashboard)
+**🏆 Ranked #1 "Best Overall" out of 16 Engineering Teams on Demo Day by Blackstone**
+
+*A high-performance cloud security command center built to detect and remediate IAM misconfigurations in real-time.*
+* **Tech Stack:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+* **Impact:** Led a cross-functional team of 25 engineers to develop automated scanning for multi-AWS account IAM roles, integrating Bedrock AI for automated triage and remediation suggestions, alongside a Voice IR agent for a hands-free security posture.
+
+---
+
+### 🌊 [NextWave](https://github.com/wakeensito/NextWave)
+**🥇 1st Place Winner @ SharkByte Hackathon (Out of 25+ teams & 100+ students) — Hosted by MDC**
+
+**🏆 Winner: Best Use of DigitalOcean**
+
+*AI-powered career roadmap platform that maps student interests to academic majors using serverless architecture.*
+* **Tech Stack:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **Impact:** **Technical Lead and Architect** for a team of 4, designing the end-to-end frontend/backend vision. Built a scalable recommendation engine using LLM agents that analyzes careers, finances, and courses to provide personalized educational paths for students.
+---
 ### ☁️ Cloud Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
