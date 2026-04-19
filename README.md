@@ -46,7 +46,7 @@ I’m an **IT DevOps Engineer & Student** at **Florida International University 
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Argus Security Dashboard](https://github.com/AWS-IAM-Dashboard/IAM-Dashboard)
+### 🛡️ [IAM Argus Security Dashboard](https://github.com/AWS-IAM-Dashboard/IAM-Dashboard)
 **🏆 Ranked #1 "Best Overall" out of 16 Engineering Teams on Demo Day by Blackstone**
 
 *A high-performance cloud security command center built to detect and remediate IAM misconfigurations in real-time.*
