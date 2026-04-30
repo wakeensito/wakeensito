@@ -2,7 +2,7 @@
 
 I’m an **IT DevOps Engineer & Student** at **Florida International University (Class of May 2027)**, specializing in cloud security, automation, and serverless architecture.
 
-* ☁️ AWS Cloud Club Captain @ FIU — Leading a community of student engineers through hands-on cloud labs and DevOps workshops.
+* ☁️ AWS Student Builder Group Leader @ FIU — Leading a community of student engineers through hands-on cloud labs and DevOps workshops.
 
 * 🛡️ Lead Engineer @ Argus — Managed a cross-functional team of 25 to architect a Blackstone-awarded security dashboard for real-time AWS IAM security posture.
 
