@@ -2,9 +2,11 @@
 
 I’m an **IT DevOps Engineer & Student** at **Florida International University (Class of May 2027)**, specializing in cloud security, automation, and serverless architecture.
 
-* ☁️ AWS Student Builder Group Leader @ FIU — Leading a community of student engineers through hands-on cloud labs and DevOps workshops.
+* Systems Engineer Associate @ Progressive Insurance — Driving infrastructure reliability, system engineering workflows, and enterprise automation.
 
-* 🛡️ Lead Engineer @ Argus — Managed a cross-functional team of 25 to architect a Blackstone-awarded security dashboard for real-time AWS IAM security posture.
+* AWS Student Builder Group Leader @ FIU — Leading a community of student engineers through hands-on cloud labs and workshops.
+
+* Lead Engineer @ Argus — Managed a cross-functional team of 25 to architect a Blackstone-awarded security dashboard for real-time AWS IAM security posture.
 
 
 **Future goals:** Architecting secure, scalable cloud ecosystems and contributing to the evolution of DevSecOps.
