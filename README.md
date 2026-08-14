@@ -33,13 +33,12 @@ I’m an **IT DevOps Engineer & Student** at **Florida International University 
         <br /><font color="white"><b>Security+</b></font>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://www.credly.com/badges/5d0f7737-9b1d-4018-a8b1-c7807be3b812" style="text-decoration: none;">
-        <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" width="180" alt="Cloud Club Captain" />
-        <br /><font color="white"><b>Cloud Club Captain</b></font>
-      </a>
-    </td>
-  </tr>
+  <td align="center" width="25%">
+  <a href="https://www.credly.com/badges/2a7d0026-ed85-4793-8952-f908e6a66fb9/public_url" style="text-decoration: none;">
+    <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" width="180" alt="AWS SBG Leader" />
+    <br /><font color="white"><b>SBG Leader</b></font>
+  </a>
+</td>
 </table>
 
 <br clear = "both" />
