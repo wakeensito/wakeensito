@@ -12,36 +12,41 @@ I’m an **IT DevOps Engineer & Student** at **Florida International University 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jporter924/)
 
 ## Certifications
-
 <table align="left" width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <a href="https://learn.microsoft.com/en-us/users/joaquinporterjr-2498/credentials/certification/azure-fundamentals?source=docs&tab=credentials-tab" style="text-decoration: none;">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="180" alt="Azure Fundamentals" />
+        <br /><font color="white"><b>Azure Fundamentals</b></font>
+      </a>
+    </td>
+    <td align="center" width="20%">
       <a href="https://www.credly.com/badges/b8ae458e-ae89-4aee-baf0-802597f016c6" style="text-decoration: none;">
         <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="180" alt="AWS CCP" />
         <br /><font color="white"><b>Cloud Practitioner</b></font>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/badges/b2e39a77-ffac-4c7d-948f-8b20d8c8e0da" style="text-decoration: none;">
         <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="180" alt="AWS SAA" />
         <br /><font color="white"><b>Solutions Architect</b></font>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/badges/6c90fb1a-574c-4c00-bbc4-d5d36de360cf" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/wakeensito/KeenKloud/main/assets/img/comp.png" width="180" alt="Security+" />
         <br /><font color="white"><b>Security+</b></font>
       </a>
     </td>
-  <td align="center" width="25%">
-  <a href="https://www.credly.com/badges/2a7d0026-ed85-4793-8952-f908e6a66fb9/public_url" style="text-decoration: none;">
-    <img src="https://images.credly.com/size/220x220/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" width="180" alt="AWS SBG Leader" />
-    <br /><font color="white"><b>SBG Leader</b></font>
-  </a>
-</td>
+    <td align="center" width="20%">
+      <a href="https://www.credly.com/badges/2a7d0026-ed85-4793-8952-f908e6a66fb9/public_url" style="text-decoration: none;">
+        <img src="https://images.credly.com/size/220x220/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" width="180" alt="AWS SBG Leader" />
+        <br /><font color="white"><b>SBG Leader</b></font>
+      </a>
+    </td>
+  </tr>
 </table>
-
-<br clear = "both" />
+<br clear="both" />
 
 ## 🚀 Featured Projects
 
