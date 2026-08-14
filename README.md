@@ -35,7 +35,7 @@ I’m an **IT DevOps Engineer & Student** at **Florida International University 
     </td>
   <td align="center" width="25%">
   <a href="https://www.credly.com/badges/2a7d0026-ed85-4793-8952-f908e6a66fb9/public_url" style="text-decoration: none;">
-    <img src="https://images.credly.com/size/680x680/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" width="180" alt="AWS SBG Leader" />
+    <img src="https://images.credly.com/size/220x220/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" width="180" alt="AWS SBG Leader" />
     <br /><font color="white"><b>SBG Leader</b></font>
   </a>
 </td>
